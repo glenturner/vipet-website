@@ -2038,7 +2038,23 @@ font-family: 'Open Sans',sans-serif;
 /*--services-fluid---*/
 
 
+.hvr-float-shadow img {
+  height: 171px;
+  width: 100px;
+}
 
+.hvr-float-shadow {
+
+}
+
+.services {
+  margin-left: 100px;
+}
+
+.about_us img {
+  height: 200px;
+  width: 250px;
+}
 
 .services-fluid {
   overflow: hidden;
