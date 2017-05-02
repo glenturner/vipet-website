@@ -59,6 +59,9 @@
 ====================================================================
 
  ***/
+/*#contact-form {
+  color: #009ED4;
+}*/
 
 body {
 	font-family: 'Open Sans',sans-serif;
@@ -85,6 +88,7 @@ a:hover,a:focus,a:visited{
 	text-decoration:none;
 	outline:none;
 }
+
 
 h1,h2,h3,h4,h5,h6 {
 	position:relative;
@@ -794,7 +798,8 @@ ul,li{
   border: 1px solid#EEEEEE;
   margin-bottom:32px;
 }
-.contact-area h2{color:#222222;font-family: 'Lato', sans-serif;font-size:24px;font-weight: 700;padding-bottom:30px;}
+
+.contact-area h2{color:#009ED4;font-family: 'Lato', sans-serif;font-size:24px;font-weight: 700;padding-bottom:30px;}
 .contact-area .default-form .form-group.comments input {
   color: #aaaaaa;
   font-family: 'Lato', sans-serif;
@@ -2423,6 +2428,7 @@ font-family: 'Open Sans',sans-serif;
 /*====================================================================
 	Start gallery page Style
 ====================================================================*/
+
 .gallery-section.full-page {
   padding-top:150px;padding-bottom:150px;
 }
